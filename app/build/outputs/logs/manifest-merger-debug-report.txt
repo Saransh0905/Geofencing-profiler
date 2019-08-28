@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.firebase:geofire-android:3.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/df62eba6757a032103ecf6dd499d2e94/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:15:1-38:12
+MERGED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/2ee5e7f1a46b276dce76a047c3522233/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saransh/.gradle/caches/transforms-2/files-2.1/728313ac22fd8dba878cbcca6389ce76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saransh/.gradle/caches/transforms-2/files-2.1/406b0a3690766e283a05b81145c04620/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c5f597d98f4d2ebac5da9d177730a986/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/29de62b16407fe05e42947e199ae0435/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c79c72e4c113ff2631788d425c9588f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7208b810296113e0556999a5e55ea2f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/ca57a7d1f8df9595cda81e41bce861ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd5e056f3536616d751eb314b2a92064/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/eff3696b0d6eba493b419b74e66beb65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/70be0115e328c8ecd85d8f3a1957457d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/20442f0cfd499337b2163d18cae47473/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/b7f1d6c3a6a1f399789f7f60fc893adb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d5138c447ee0c9a9525307b7e006ff8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/044b9525d712cf0d5b2d65fe37d85700/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/68a1342451d8825615cb84ab98eb9177/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/0a3ca59cbbdd990d12f29deb9ddd475c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd45f59de434c55df0dea2c55603a679/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8beda63aa36a5d572128e53f6ce16139/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b494154854e8de3c834bc96578304035/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7c65ffd9728c09d59d808e2c022368cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/826637d882ede605b22aceea185c32e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/04a89e35bd02ded667a06c9b897be9bf/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8a0630cf93535d1632cb3ec54f2d0104/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/621d6360d3ac6316202673193ae4e893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b4270708d67825b5a6aad023cd3e3fc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/1ce5930c7ad67e506a3ad54835f12f54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/75db9c4c432e5c651b4ae8ea0ec8af89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c8416b266ae471e77783e8d451959af9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/71e552fe55197dc4d0a3cfc2d568863b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/60faa5e09821d2a3857c2f56f6bbea3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d56b40ae8ce1a6cb4fccdbc266e30146/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/64ccfd23baa324d229b098f3bb15ed86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5a57a6c9c65e7693249f8a96cfe7c767/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b5377dc16ddda0e02d1ed27819476618/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:12:5-42:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:28:5-36:19
+MERGED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/2ee5e7f1a46b276dce76a047c3522233/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/2ee5e7f1a46b276dce76a047c3522233/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saransh/.gradle/caches/transforms-2/files-2.1/406b0a3690766e283a05b81145c04620/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saransh/.gradle/caches/transforms-2/files-2.1/406b0a3690766e283a05b81145c04620/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c5f597d98f4d2ebac5da9d177730a986/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c5f597d98f4d2ebac5da9d177730a986/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/29de62b16407fe05e42947e199ae0435/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/29de62b16407fe05e42947e199ae0435/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c79c72e4c113ff2631788d425c9588f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c79c72e4c113ff2631788d425c9588f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7208b810296113e0556999a5e55ea2f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7208b810296113e0556999a5e55ea2f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/04a89e35bd02ded667a06c9b897be9bf/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/04a89e35bd02ded667a06c9b897be9bf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.example.geofencing.Maps1
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:35:13-57
+	android:name
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:34:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+MERGED from [com.firebase:geofire-android:3.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/df62eba6757a032103ecf6dd499d2e94/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebase:geofire-android:3.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/df62eba6757a032103ecf6dd499d2e94/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:19:5-21:41
+MERGED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/2ee5e7f1a46b276dce76a047c3522233/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/2ee5e7f1a46b276dce76a047c3522233/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saransh/.gradle/caches/transforms-2/files-2.1/728313ac22fd8dba878cbcca6389ce76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/saransh/.gradle/caches/transforms-2/files-2.1/728313ac22fd8dba878cbcca6389ce76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saransh/.gradle/caches/transforms-2/files-2.1/406b0a3690766e283a05b81145c04620/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/saransh/.gradle/caches/transforms-2/files-2.1/406b0a3690766e283a05b81145c04620/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c5f597d98f4d2ebac5da9d177730a986/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c5f597d98f4d2ebac5da9d177730a986/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/29de62b16407fe05e42947e199ae0435/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/29de62b16407fe05e42947e199ae0435/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c79c72e4c113ff2631788d425c9588f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c79c72e4c113ff2631788d425c9588f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7208b810296113e0556999a5e55ea2f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7208b810296113e0556999a5e55ea2f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/ca57a7d1f8df9595cda81e41bce861ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/ca57a7d1f8df9595cda81e41bce861ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd5e056f3536616d751eb314b2a92064/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd5e056f3536616d751eb314b2a92064/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/eff3696b0d6eba493b419b74e66beb65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/eff3696b0d6eba493b419b74e66beb65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/70be0115e328c8ecd85d8f3a1957457d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/70be0115e328c8ecd85d8f3a1957457d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/20442f0cfd499337b2163d18cae47473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/20442f0cfd499337b2163d18cae47473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/b7f1d6c3a6a1f399789f7f60fc893adb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/b7f1d6c3a6a1f399789f7f60fc893adb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d5138c447ee0c9a9525307b7e006ff8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d5138c447ee0c9a9525307b7e006ff8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/044b9525d712cf0d5b2d65fe37d85700/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/044b9525d712cf0d5b2d65fe37d85700/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/68a1342451d8825615cb84ab98eb9177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/68a1342451d8825615cb84ab98eb9177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/0a3ca59cbbdd990d12f29deb9ddd475c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/0a3ca59cbbdd990d12f29deb9ddd475c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd45f59de434c55df0dea2c55603a679/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/bd45f59de434c55df0dea2c55603a679/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8beda63aa36a5d572128e53f6ce16139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8beda63aa36a5d572128e53f6ce16139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b494154854e8de3c834bc96578304035/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b494154854e8de3c834bc96578304035/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7c65ffd9728c09d59d808e2c022368cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/7c65ffd9728c09d59d808e2c022368cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/826637d882ede605b22aceea185c32e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/826637d882ede605b22aceea185c32e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/f4d08cbc003f25b5ac6bc90d2d02b2ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/04a89e35bd02ded667a06c9b897be9bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/04a89e35bd02ded667a06c9b897be9bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8a0630cf93535d1632cb3ec54f2d0104/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/8a0630cf93535d1632cb3ec54f2d0104/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/621d6360d3ac6316202673193ae4e893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/621d6360d3ac6316202673193ae4e893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b4270708d67825b5a6aad023cd3e3fc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b4270708d67825b5a6aad023cd3e3fc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/1ce5930c7ad67e506a3ad54835f12f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/1ce5930c7ad67e506a3ad54835f12f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/75db9c4c432e5c651b4ae8ea0ec8af89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/75db9c4c432e5c651b4ae8ea0ec8af89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c8416b266ae471e77783e8d451959af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/c8416b266ae471e77783e8d451959af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/71e552fe55197dc4d0a3cfc2d568863b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/71e552fe55197dc4d0a3cfc2d568863b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/60faa5e09821d2a3857c2f56f6bbea3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/60faa5e09821d2a3857c2f56f6bbea3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d56b40ae8ce1a6cb4fccdbc266e30146/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/d56b40ae8ce1a6cb4fccdbc266e30146/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/64ccfd23baa324d229b098f3bb15ed86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/64ccfd23baa324d229b098f3bb15ed86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5a57a6c9c65e7693249f8a96cfe7c767/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5a57a6c9c65e7693249f8a96cfe7c767/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b5377dc16ddda0e02d1ed27819476618/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/b5377dc16ddda0e02d1ed27819476618/AndroidManifest.xml:5:5-44
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		ADDED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saransh/AndroidStudioProjects/Geofencing/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebase:geofire-android:3.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/df62eba6757a032103ecf6dd499d2e94/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.firebase:geofire-android:3.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/df62eba6757a032103ecf6dd499d2e94/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/saransh/.gradle/caches/transforms-2/files-2.1/bbd08de3e642d221072749f6fb9df839/AndroidManifest.xml:33:17-109
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/a2bb08c67fcb84e34c2bbd0c119b05a7/AndroidManifest.xml:28:13-60
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/5404283bb249634c2792e9a620fd5a75/AndroidManifest.xml:34:13-50
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/cd3ad619fc46ac723e0c6bd5329efa50/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/294d68f83bbed07a6e1d5b3c07151717/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saransh/.gradle/caches/transforms-2/files-2.1/f362d9dcbed18d3408284454bc3ca7ef/AndroidManifest.xml:24:13-58
